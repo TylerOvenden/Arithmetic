@@ -56,9 +56,9 @@ li {
 }
 
 button {
-    padding: 4px 8px;
+    padding: 4px 12px;
     background-color: #e74c3c;
-    border: none;
+    
     color: #fff;
     border-radius: 4px;
     cursor: pointer;
